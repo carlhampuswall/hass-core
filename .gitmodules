@@ -1,0 +1,3 @@
+[submodule "smartknob-home-assistant-integration"]
+	path = smartknob-home-assistant-integration
+	url = https://github.com/SeedLabs-it/smartknob-home-assistant-integration.git
