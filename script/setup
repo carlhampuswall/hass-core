@@ -4,6 +4,8 @@
 # Stop on errors
 set -e
 
+sudo usermod -aG dialout $(whoami)
+
 cd "$(dirname "$0")/.."
 
 # Add default vscode settings if not existing
