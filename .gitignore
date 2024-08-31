@@ -138,4 +138,4 @@ tmp_cache
 pytest_buckets.txt
 
 /.pnpm-store/*
-smartknob-home-assistant-integration/*
+/smartknob-home-assistant-integration/
